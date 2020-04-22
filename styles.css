@@ -36,7 +36,7 @@
       font-family: 'Manrope', sans-serif;
       font-weight: 700;
     }
-    footer{font-size:12px;}
+    
     a {
       color: #96999c;
     }
@@ -46,3 +46,14 @@
       font-weight:700;
       font-family: 'Manrope', sans-serif;
     }
+
+footer{
+   font-size:12px;
+   padding:20px 0px;
+   background-color:#E2E2E2;
+   text-align:center;
+}
+
+footer a{
+   color:#484747;
+}
