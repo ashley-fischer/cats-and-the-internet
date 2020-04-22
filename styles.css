@@ -1,0 +1,48 @@
+   body {
+      margin: 20px;
+    }
+
+    p {
+      font-family: 'Manrope', sans-serif;
+    }
+    strong{font-weight:700;}
+
+    h1 {
+      font-size: 50px;
+      font-family: 'McLaren', cursive;
+      
+    }
+    
+    h2{width:100%;
+    border-bottom:2px solid #000;
+    line-height:0.1em;
+    margin:40px 0px 20px!important;}
+    
+    h2 span{background:#fff;
+    padding:0 10px 10px 0px;}
+
+    h3{font-size:20px;
+    font-weight:700;}
+   
+    h2,
+    h3 {
+      font-family: 'Manrope', sans-serif;
+      margin-top: 20px;
+    }
+
+    .nav {
+      margin-top: 20px;
+      margin-bottom: 40px;
+      font-family: 'Manrope', sans-serif;
+      font-weight: 700;
+    }
+    footer{font-size:12px;}
+    a {
+      color: #96999c;
+    }
+    
+    .celeb{
+      font-size:20px;
+      font-weight:700;
+      font-family: 'Manrope', sans-serif;
+    }
