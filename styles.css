@@ -56,4 +56,8 @@ footer{
 
 footer a{
    color:#484747;
+   font-weight:700;
 }
+ footer p{
+    margin:0 auto;
+    width:80%;
